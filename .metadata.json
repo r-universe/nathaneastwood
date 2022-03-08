@@ -1,0 +1,14 @@
+[
+  {
+    "package": "catalog",
+    "oncran": true
+  },
+  {
+    "package": "gghalfnorm",
+    "oncran": true
+  },
+  {
+    "package": "poorman",
+    "oncran": true
+  }
+]

@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "catalog"]
+	path = catalog
+	url = https://github.com/nathaneastwood/catalog
+	shallow = true
+	registered = true
+[submodule "gghalfnorm"]
+	path = gghalfnorm
+	url = https://github.com/nathaneastwood/gghalfnorm
+	shallow = true
+	registered = true
+[submodule "poorman"]
+	path = poorman
+	url = https://github.com/nathaneastwood/poorman
+	shallow = true
+	registered = true
